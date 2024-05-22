@@ -5,7 +5,7 @@
 Zeft is an innovative educational app designed to enhance the learning experience for students of all ages. With a focus on interactive content, personalized learning paths, and real-time progress tracking, Zeft makes education engaging and accessible.
 
 ## Features
-![Zeft Cover](images/zeftcover.png)
+![Zeft Cover](images/Zeftcover.png)
 
 - **Interactive Lessons**: Engage with multimedia lessons that include videos, quizzes, and interactive exercises.
 - **Personalized Learning Paths**: Customize your learning journey based on your interests and proficiency levels.
@@ -26,16 +26,16 @@ To install Zeft on your Android device, follow these steps:
 ## Screenshots
 
 ### Home Screen
-![Home Screen](images/Zeft%20(3).png)
+<img src="images/Zeft%20(3).png" alt="Home Screen" width="100">
 
 ### Interactive Lessons
-![Interactive Lessons](images/Zeft%20(6).png)
+<img src="images/Zeft%20(6).png" alt="Interactive Lessons" width="100">
 
 ### Progress Tracking
-![Progress Tracking](path/to/progress_tracking.png)
+<img src="images/Zeft%20(1).png" alt="Progress Tracking" width="100">
 
 ### Personalized Learning Paths
-![Personalized Learning Paths](path/to/personalized_learning_paths.png)
+<img src="images/amazon-zeft.jpg" alt="Personalized Learning Paths" width="300">
 
 ## Usage
 
