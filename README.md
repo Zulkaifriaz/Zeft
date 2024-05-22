@@ -1,7 +1,3 @@
-Sure, here's a draft for the `README.md` file for an Education Android app named "Zeft". This file will include a brief description of the app, features, installation instructions, and screenshots.
-
----
-
 # Zeft - Education Android App
 
 ![Zeft Logo](images/zeft.png)
@@ -9,6 +5,7 @@ Sure, here's a draft for the `README.md` file for an Education Android app named
 Zeft is an innovative educational app designed to enhance the learning experience for students of all ages. With a focus on interactive content, personalized learning paths, and real-time progress tracking, Zeft makes education engaging and accessible.
 
 ## Features
+![Zeft Cover](images/zeftcover.png)
 
 - **Interactive Lessons**: Engage with multimedia lessons that include videos, quizzes, and interactive exercises.
 - **Personalized Learning Paths**: Customize your learning journey based on your interests and proficiency levels.
@@ -29,10 +26,10 @@ To install Zeft on your Android device, follow these steps:
 ## Screenshots
 
 ### Home Screen
-![Home Screen](path/to/home_screen.png)
+![Home Screen](images/Zeft%20(3).png)
 
 ### Interactive Lessons
-![Interactive Lessons](path/to/interactive_lessons.png)
+![Interactive Lessons](images/Zeft%20(6).png)
 
 ### Progress Tracking
 ![Progress Tracking](path/to/progress_tracking.png)
