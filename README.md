@@ -26,16 +26,16 @@ To install Zeft on your Android device, follow these steps:
 ## Screenshots
 
 ### Home Screen
-<img src="images/Zeft%20(3).png" alt="Home Screen" width="100">
+<img src="images/Zeft%20(3).png" alt="Home Screen" width="200">
 
 ### Interactive Lessons
-<img src="images/Zeft%20(6).png" alt="Interactive Lessons" width="100">
+<img src="images/Zeft%20(6).png" alt="Interactive Lessons" width="200">
 
 ### Progress Tracking
-<img src="images/Zeft%20(1).png" alt="Progress Tracking" width="100">
+<img src="images/Zeft%20(1).png" alt="Progress Tracking" width="200">
 
 ### Personalized Learning Paths
-<img src="images/amazon-zeft.jpg" alt="Personalized Learning Paths" width="300">
+<img src="images/amazon-zeft.jpg" alt="Personalized Learning Paths" width="400">
 
 ## Usage
 
